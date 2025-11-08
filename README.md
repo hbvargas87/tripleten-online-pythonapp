@@ -32,18 +32,19 @@ The goal of this sprint was to:
 ```
 TT_Project_Sprint7/
 │
-├── data/                # Raw and processed datasource files
+├── streamlit/           # Configuration file from Streamlit
 ├── notebooks/           # Jupyter notebooks for exploration
 ├── app.py               # Main Streamlit application
 ├── requirements.txt     # Python dependencies
+├── vehicles_us.csv      # CSV file for the example
 └── README.md            # Project documentation
 ```
 
 ## ⚙️ Installation & Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/TT_Project_Sprint7.git
-   cd TT_Project_Sprint7
+   git clone https://github.com/your-username/tripleten-online-pythonapp.git
+   cd tripleten-online-pythonapp
 	```
 	
 2. Install dependencies:
